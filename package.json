@@ -1,6 +1,6 @@
 {
   "name": "elastic-tools",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A collection of Elasticsearch tools for use in the Node.js environment.",
   "main": "index.js",
   "author": "Leonidas Scordilis <leoscordilis@gmail.com>",
