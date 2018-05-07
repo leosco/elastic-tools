@@ -1,0 +1,4 @@
+# Everything else, default
+* text=auto
+# All source files should end in LF
+*.js text eol=lf
